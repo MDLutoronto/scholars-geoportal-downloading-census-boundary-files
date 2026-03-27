@@ -2,6 +2,9 @@
 title: "Downloading census boundary files using Scholars GeoPortal"
 layout: "home"
 description: "This exercise will showcase how to use Scholars GeoPortal to extract Census Tract (CT) census geography for the Census Metropolitan Area (CMA) of Montreal using two methods: querying the attribute table of the dataset, or downloading based on a predefined census boundary (ex. CMAs)."
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 created_date: 2016-07-26
 permalink: "/"  #! Remove this if not the homepage
 ---
