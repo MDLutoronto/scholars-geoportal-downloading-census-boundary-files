@@ -89,5 +89,3 @@ Option 2: Download data by a pre-defined census boundary
  
 
  [Downloading_Census_Boundary_Files_Using_ScholarsGeoPortal.pdf](https://mdl.library.utoronto.ca/sites/default/public/Downloading_Census_Boundary_Files_Using_ScholarsGeoPortal.pdf)
- 
- Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) | Data Format: [Vector](https://mdl.library.utoronto.ca/data-format/vector)
